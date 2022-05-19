@@ -1,0 +1,6 @@
+venv
+notes.txt
+__pycache__/
+data/
+saves/
+.DS_store
